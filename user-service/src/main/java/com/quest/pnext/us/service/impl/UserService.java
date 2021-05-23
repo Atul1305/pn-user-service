@@ -17,7 +17,6 @@ public class UserService implements IUserService {
 
 	@Override
 	public void createUser(User user) {
-		// TODO Auto-generated method stub
 		
 	}
 
@@ -30,13 +29,12 @@ public class UserService implements IUserService {
 
 	@Override
 	public ResponseEntity<User> getUserByUsername(String username) {
-		// TODO Auto-generated method stub
 		return null;
 	}
 
 	@Override
 	public void updateUser(User user) {
-		// TODO Auto-generated method stub
+		// TODO update it mapper
 		
 	}
 	
