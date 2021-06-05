@@ -29,7 +29,6 @@ public class UserProfile {
 	@Column
 	private String contactNo;
 	
-	@Column
 	@OneToOne
 	private UserDepartment departmentId;
 
